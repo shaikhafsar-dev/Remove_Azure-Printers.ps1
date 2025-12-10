@@ -1,4 +1,4 @@
-﻿Remove-Printer -Name "HS-Rm315-HP-Color" -ErrorAction SilentlyContinue
+Remove-Printer -Name "HS-Rm315-HP-Color" -ErrorAction SilentlyContinue
 Remove-Printer -Name "EE-TeacherOffice-Konica-Color" -ErrorAction SilentlyContinue
 Remove-Printer -Name "HS-RM515-Dell-Color" -ErrorAction SilentlyContinue
 Remove-Printer -Name "WM-Principal-HP-Color" -ErrorAction SilentlyContinue
@@ -83,3 +83,5 @@ Remove-Printer -Name "WM-RM425-HP-Color" -ErrorAction SilentlyContinue
 Remove-Printer -Name "WM-RM415-HP" -ErrorAction SilentlyContinue
 Remove-Printer -Name "HVAE-ExecutiveOffice-RM506B" -ErrorAction SilentlyContinue
 Remove-Printer -Name "74W-RM517A-HP" -ErrorAction SilentlyContinue
+Remove-Printer -Name "132W-RM209A-TOSHIBA-Color" -ErrorAction SilentlyContinue
+Remove-Printer -Name "74W-RMB16-Canon1" -ErrorAction SilentlyContinue
