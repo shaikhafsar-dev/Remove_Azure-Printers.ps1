@@ -85,3 +85,6 @@ Remove-Printer -Name "HVAE-ExecutiveOffice-RM506B" -ErrorAction SilentlyContinue
 Remove-Printer -Name "74W-RM517A-HP" -ErrorAction SilentlyContinue
 Remove-Printer -Name "132W-RM209A-TOSHIBA-Color" -ErrorAction SilentlyContinue
 Remove-Printer -Name "74W-RMB16-Canon1" -ErrorAction SilentlyContinue
+Remove-Printer -Name "HS-Bullpen-HP-Color" -ErrorAction SilentlyContinue
+Remove-Printer -Name "HS-RM506-HP-Color" -ErrorAction SilentlyContinue
+Remove-Printer -Name "HP-TeachersOffice-Konica2" -ErrorAction SilentlyConti
